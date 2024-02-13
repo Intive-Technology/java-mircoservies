@@ -26,5 +26,5 @@ To run the Spring Application go to project root directory and use the below com
 
 ```mvn spring-boot:run```
 
-To run the Infra of Micrometer Use the below command:
+To run the Infra of Micrometer go to user service directory Use the below command:
 ```docker-compose up -d ```
